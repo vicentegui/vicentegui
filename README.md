@@ -1,7 +1,3 @@
-<img src = "imagens-onion-view" width = "325px>
-
-#✌^_^seja bem vindo ao meu Github!e bom ter você aqui⚽
-**vicentegui/vicentegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
